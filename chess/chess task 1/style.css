@@ -1,0 +1,50 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.chess
+{
+    position: absolute;
+    top: 40px;
+    left: 27%;
+}
+.line-one
+{
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.box1
+{
+    height: 110px;
+    width: 110px;
+    background-color:rgb(232, 138, 56) ;
+    float: left;
+}
+.box2
+{
+    height: 110px;
+    width: 110px;
+    background-color: burlywood;
+    float: left;
+
+}
+.rook
+{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+.white-icons
+{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
